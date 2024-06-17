@@ -1,8 +1,8 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v2.0 - Free DDoS Panel 🚀
+# 🚀 ZxCDDoS: Release v1.5 - Free DDoS Panel 🚀
 
-# Store: https://s.id/zycotakanashi
+# Store: https://condi.billgang.store/
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -63,15 +63,15 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/ZetzzProject/ZetDos
-cd ZetDos
+git clone https://github.com/hoaan1995/ZxCDDoS/
+cd ZxCDDoS/
 npm i requests https-proxy-agent crypto-random-string events fs net cloudscraper request hcaptcha-solver randomstring cluster cloudflare-bypasser http http2 crypto tls
 pip3 install -r requirements.txt
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
-python3 zc.py
+python3 c2.py
 ```
 
 # Credits
@@ -96,6 +96,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zhannwangsaf
+Telegram: @zxcr9999
 Discord: zxcr9999#1770
 ```
