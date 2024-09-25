@@ -49,7 +49,7 @@ One star = continuously updating multiple methods
 
 # One line installations
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/ZetzzProject/ZetDos/refs/heads/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ZetzzProject/ZetDos/refs/heads/main/install.sh )
 ```
 # Setup
 ```sh
