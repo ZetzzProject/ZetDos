@@ -87,15 +87,8 @@ Leeon123 (SPECIAL METHODS <3)
 TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
 ```
 
-# TOS:
-```sh
-Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
-the creator is not responsible for the damage caused by the attacks. 
-remember: you are responsible for the attacks since this tool was created for educational purposes
-```
-
 # CONTACT:
 ```sh
 Telegram: @zhannwangsaf
-Discord: zxcr9999#1770
+Youtube: @imzetzz
 ```
