@@ -47,7 +47,9 @@ One star = continuously updating multiple methods
 - [x] Methods for Layer 4 and 7
 - [x] Bypass (Cloudflare, OVH, NFO,...)  
 
-
+# One line installations
+```sh
+```
 # Setup
 ```sh
 Debain, Ubuntu (Ubuntu 20.04 better):
