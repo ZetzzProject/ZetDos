@@ -49,6 +49,7 @@ One star = continuously updating multiple methods
 
 # One line installations
 ```sh
+https://github.com/ZetzzProject/ZetDos/install.sh
 ```
 # Setup
 ```sh
