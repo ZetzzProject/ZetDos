@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v2.0 - Free DDoS Panel 🚀
+# 🚀 ZyCDDoS: Release v2.0 - Free DDoS Panel 🚀
 
 # Store: https://s.id/zycotakanashi
 
