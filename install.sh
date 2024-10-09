@@ -12,4 +12,4 @@ ulimit -n 999999
 chmod 777 *
 sleep 1.2
 echo -e "Installation Success"
-echo -e "Type python3 zc.py to start the tools XD"
+echo -e "Type cd ZetDos && python3 zc.py to start the tools XD"
